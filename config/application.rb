@@ -28,7 +28,7 @@ module RunteqNormal
     # the framework and any gems in your application.
     config.generators do |g|
       g.assets false
-      g.skip_routes false
+      g.skip_routes true
       g.helper false
       g.test_framework false
     end
