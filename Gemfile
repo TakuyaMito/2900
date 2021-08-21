@@ -64,3 +64,5 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
 gem 'font-awesome-sass', '~> 5.12.0'
+gem 'pry-byebug'
+gem 'sorcery'
